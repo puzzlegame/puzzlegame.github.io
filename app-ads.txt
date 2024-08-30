@@ -62,6 +62,9 @@ pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
 pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
 openx.com, 537149888, RESELLER, 6a698e2ec38604c6
 appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+gamob.com, pub-5058840431, DIRECT
+google.com, pub-5882656183054581, RESELLER, f08c47fec0942fa0
+tappx.com, hc108912b, DIRECT, 9f375a07da0318ec
 
 gamob.com, pub-5058840431, DIRECT
 google.com, pub-5882656183054581, RESELLER, f08c47fec0942fa0
