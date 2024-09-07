@@ -68,3 +68,4 @@ tappx.com, hc108912b, DIRECT, 9f375a07da0318ec
 
 gamob.com, pub-5058840431, DIRECT
 google.com, pub-5882656183054581, RESELLER, f08c47fec0942fa0
+google.com, pub-9626749757508106, DIRECT, f08c47fec0942fa0
